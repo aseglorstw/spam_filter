@@ -5,7 +5,7 @@ Here, you can explore the implementation of an email spam filter primarily based
 ## Principle of operation.
 1. Bayesian Classification
 <p align="center">
-  <img src="https://ltdfoto.ru/images/2024/05/02/1_aFhOj7TdBIZir4keHMgHOw.png">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*igbFdTVpO815GWax.png">
 </p>
 
 3. Remembering Spam Message Senders
@@ -15,10 +15,3 @@ Here, you can explore the implementation of an email spam filter primarily based
 ## Results 
 In one of the tournaments, I secured first place. My overall final result was 9th place in my cohort.
 
-<p align="center">
-  <img src="https://ltdfoto.ru/images/2024/05/02/640d0492-462b-46e5-8ff8-d679f314dd74.jpg">
-</p>
-
-<p align="center">
-  <img src="https://ltdfoto.ru/images/2024/05/02/c7b7ec04-49ac-4f2d-b592-c17e1bd33048.jpg">
-</p>
